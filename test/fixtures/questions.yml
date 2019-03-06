@@ -1,0 +1,14 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: Title of One
+  content: Content of One
+  user: guojing
+  created_at: 2018-12-09 12:00:00
+  updated_at: 2018-12-09 12:00:00
+
+two:
+  title: Title of Two
+  user: guojing
+  created_at: 2018-12-10 18:00:00
+  updated_at: 2018-12-10 18:00:00
